@@ -8,7 +8,7 @@
 |------------------|--------------|---------------------------------|
 |   Mouad MOUNACH  |   21907590   |      me.mounach@gmail.com       |
 |   Manil MASDOUA  |   21911531   |     masdoua.manil@gmail.com     |
-|   Bilal RABIA    |   21911527   |      rabiabily@gmail.com        |
+
 
 
  - Project description de la base de données : ./DescriptionBaseDonnees.doc
